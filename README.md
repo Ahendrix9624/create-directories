@@ -1,0 +1,1 @@
+This script creates 100 folders named day1-100 in the current directory you run the script from.
